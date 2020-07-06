@@ -1,0 +1,2 @@
+DROP TRIGGER IF EXISTS AgeRestraintTrigger;
+DROP VIEW IF EXISTS MovieAge;
